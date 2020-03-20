@@ -4,7 +4,7 @@ package CharMap;
  * <p> main class <p>
  * 
  * 
- * <p> Description:  Determines if there is a one to character mapping between string 1 and string 2</p>
+ * <p> Description:  Determines if there is a one to character mapping between string 1 and string 2  </p>
  * 
  * @author Henry Rood-Matza 
  *
