@@ -10,25 +10,12 @@ package CharMap;
  */
 import java.util.Collection;
 import java.util.HashMap;
-import java.util.Scanner;
 
-public class CharMapMain {
-
-
-
+public class Main {
 
 
 	public static void main(String[] args) {
-		String wordOne;
-		String wordTwo;
-		Scanner scnr = new Scanner(System.in);
-
-		System.out.println("Enter String one");
-		wordOne = scnr.nextLine();
-		System.out.println("Enter String two");
-		wordTwo = scnr.nextLine();
-		strMap(wordOne, wordTwo);
-		scnr.close();
+		strMap(args[0], args[1]);
 
 
 
