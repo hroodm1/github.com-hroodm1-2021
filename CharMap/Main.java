@@ -11,15 +11,11 @@ package CharMap;
 import java.util.Collection;
 import java.util.HashMap;
 
-public class Main {
+public class main {
 
 
 	public static void main(String[] args) {
 		strMap(args[0], args[1]);
-
-
-
-
 
 	}
 
